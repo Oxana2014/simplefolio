@@ -1,3 +1,7 @@
+Thanks for this template <a rel="noreferrer" href="https://github.com/cobidev" target="_blank"
+            >Jacobo Martínez</a
+          >
+
 # Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
 
 ## A minimal portfolio template for Developers!
